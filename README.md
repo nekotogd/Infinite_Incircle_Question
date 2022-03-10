@@ -1,6 +1,6 @@
-# Infinite_Incircle_Question
+# Infinite Incircle Question
 
-Found this question in my uni calculus textbook and kept breaking my head on it:
+Found this question in my calculus textbook and kept breaking my head on it:
 
 ![Question Picture](Question.png)
 
@@ -36,3 +36,11 @@ Your Answer: 0.3599741582238305
 ```
 
 Success! You can find the script [here](recursive_solver.py)
+
+## References
+
+Simran. (2014, September 25). _Infinitely Many Circles in an Equilateral Triangle_ [Online Forum Post]. Mathematics Stack Exchange. https://math.stackexchange.com/questions/945123/infinitely-many-circles-in-an-equilateral-triangle
+
+Stewart, J. (2015). Calculus: Early Transcendentals (8th ed.). Cengage Learning.
+
+Trigonometry/Circles and Triangles/The Incircle. (2020, June 28). In _Wikibooks_. https://en.wikibooks.org/wiki/Trigonometry/Circles_and_Triangles/The_Incircle
