@@ -43,4 +43,4 @@ Simran. (2014, September 25). _Infinitely Many Circles in an Equilateral Triangl
 
 Stewart, J. (2015). Calculus: Early Transcendentals (8th ed.). Cengage Learning.
 
-Trigonometry/Circles and Triangles/The Incircle. (2020, June 28). In _Wikibooks_. https://en.wikibooks.org/wiki/Trigonometry/Circles_and_Triangles/The_Incircle
+WikiBooks. (2020, June 28). Trigonometry/Circles and Triangles/The Incircle. https://en.wikibooks.org/wiki/Trigonometry/Circles_and_Triangles/The_Incircle
