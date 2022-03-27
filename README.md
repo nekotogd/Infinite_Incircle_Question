@@ -2,9 +2,10 @@
 
 Found this question in my calculus textbook and kept breaking my head on it:
 
-![Question Picture](Question.png)
+> ![](https://github.com/nekotogd/Infinite_Incircle_Question/blob/master/Question.png?raw=true)
+> **Infinite Incircle Question (Stewart, 2015)**
 
-Eventually, I found a [Math StackExchange Thread](https://math.stackexchange.com/questions/945123/infinitely-many-circles-in-an-equilateral-triangle) on how to solve it using a geometric series, however, I had an idea for solving it using some Geometry.
+Eventually, I found a [Math StackExchange Thread](https://math.stackexchange.com/questions/945123/infinitely-many-circles-in-an-equilateral-triangle) (Simran, 2014) on how to solve it using a geometric series, however, I had an idea for solving it using some Geometry.
 
 I wanted to pursue this dumb idea instead and see if it got me the same answer.
 
@@ -18,7 +19,7 @@ Which means that big circle in the center must be the incircle of the triangle. 
 
 So really, we just need to develop a method find the radius of the incircle of any equilateral triangle given its side length.
 
-This can be done using [Heron's Theorem](https://en.wikibooks.org/wiki/Trigonometry/Circles_and_Triangles/The_Incircle)! It gives us a general formula:
+This can be done using [Heron's Theorem](https://en.wikibooks.org/wiki/Trigonometry/Circles_and_Triangles/The_Incircle) (WikiBooks, 2020). It gives us a general formula:
 
 ![Heron's formula applied to incircle radius](RDME_files/heron_equation.jpg)
 
